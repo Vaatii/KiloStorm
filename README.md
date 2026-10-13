@@ -4,8 +4,8 @@
 
 **Динамичный клавиатурный тренажер с глубокой аналитикой печати**
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Vaatii/KiloStorm?style=for-the-badge&color=7289da)
-![GitHub stars](https://img.shields.io/github/stars/Vaatii/KiloStorm?style=for-the-badge)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Vaatii/KiloStorm?style=for-the-badge&color=7289da)](https://github.com/Vaatii/KiloStorm/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/Vaatii/KiloStorm?style=for-the-badge)](https://github.com/Vaatii/KiloStorm/stargazers)
 ![License: EULA](https://img.shields.io/badge/License-EULA-red?style=for-the-badge)
 
 [Описание](#-о-проекте) • [Игровые режимы](#-игровые-режимы) • [Особенности](#-основные-особенности) • [Установка](#-установка-и-запуск) • [Планы](#-дорожная-карта) • [Лицензия](#-лицензия)
